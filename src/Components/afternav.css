@@ -1,0 +1,22 @@
+#afternav{
+    display: flex;
+    align-items: center;
+    margin-left: 300px;
+    
+    
+}
+#navit{
+    display: flex;
+    flex-direction: row;
+    
+    text-decoration: none;
+    align-content: center;
+    color: black;
+   
+}
+#secondmain{
+
+    display: flex;
+    flex-direction: row;
+}
+
